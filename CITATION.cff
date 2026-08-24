@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use VoltCast in research or teaching, please cite the software."
+title: "VoltCast: Physics-informed smartphone battery endurance simulation"
+type: software
+authors:
+  - family-names: "Hspikes"
+  - family-names: "HYQ"
+  - family-names: "LMY"
+version: 0.1.0
+date-released: 2026-08-24
+license: MIT
+repository-code: "https://github.com/Hspikes/voltcast"
+keywords:
+  - battery endurance
+  - continuous-time model
+  - state of charge
+  - time to empty

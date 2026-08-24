@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 520" role="img" aria-labelledby="title desc">
+<title id="title">VoltCast baseline endurance comparison</title>
+<desc id="desc">Time-to-empty for four synthetic smartphone workloads using new and aged demonstration batteries.</desc>
+<rect width="100%" height="100%" rx="18" fill="#f8fafc"/>
+<text x="95" y="38" font-family="system-ui,sans-serif" font-size="24" font-weight="700" fill="#0f172a">Full-charge endurance across synthetic workloads</text>
+<line x1="95" y1="430" x2="945" y2="430" stroke="#64748b"/>
+<line x1="95" y1="430.0" x2="945" y2="430.0" stroke="#cbd5e1" stroke-dasharray="4 5"/>
+<text x="83" y="435.0" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#475569">0h</text>
+<line x1="95" y1="356.1" x2="945" y2="356.1" stroke="#cbd5e1" stroke-dasharray="4 5"/>
+<text x="83" y="361.1" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#475569">5h</text>
+<line x1="95" y1="282.2" x2="945" y2="282.2" stroke="#cbd5e1" stroke-dasharray="4 5"/>
+<text x="83" y="287.2" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#475569">10h</text>
+<line x1="95" y1="208.3" x2="945" y2="208.3" stroke="#cbd5e1" stroke-dasharray="4 5"/>
+<text x="83" y="213.3" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#475569">15h</text>
+<line x1="95" y1="134.4" x2="945" y2="134.4" stroke="#cbd5e1" stroke-dasharray="4 5"/>
+<text x="83" y="139.4" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#475569">20h</text>
+<line x1="95" y1="60.5" x2="945" y2="60.5" stroke="#cbd5e1" stroke-dasharray="4 5"/>
+<text x="83" y="65.5" text-anchor="end" font-family="system-ui,sans-serif" font-size="13" fill="#475569">25h</text>
+<rect x="155.2" y="96.7" width="46" height="333.3" rx="6" fill="#2563eb"/>
+<text x="178.2" y="88.7" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">22.6h</text>
+<rect x="201.2" y="161.2" width="46" height="268.8" rx="6" fill="#f97316"/>
+<text x="224.2" y="153.2" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">18.2h</text>
+<text x="201.2" y="462" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#334155">Reading Dark</text>
+<rect x="367.8" y="142.4" width="46" height="287.6" rx="6" fill="#2563eb"/>
+<text x="390.8" y="134.4" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">19.5h</text>
+<rect x="413.8" y="149.1" width="46" height="280.9" rx="6" fill="#f97316"/>
+<text x="436.8" y="141.1" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">19.0h</text>
+<text x="413.8" y="462" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#334155">Mixed Day</text>
+<rect x="580.2" y="377.9" width="46" height="52.1" rx="6" fill="#2563eb"/>
+<text x="603.2" y="369.9" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">3.5h</text>
+<rect x="626.2" y="392.7" width="46" height="37.3" rx="6" fill="#f97316"/>
+<text x="649.2" y="384.7" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">2.5h</text>
+<text x="626.2" y="462" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#334155">Streaming</text>
+<rect x="792.8" y="404.9" width="46" height="25.1" rx="6" fill="#2563eb"/>
+<text x="815.8" y="396.9" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">1.7h</text>
+<rect x="838.8" y="415.0" width="46" height="15.0" rx="6" fill="#f97316"/>
+<text x="861.8" y="407.0" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0f172a">1.0h</text>
+<text x="838.8" y="462" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#334155">Gaming</text>
+<rect x="310" y="482" width="18" height="18" rx="4" fill="#2563eb"/>
+<text x="337" y="496" font-family="system-ui,sans-serif" font-size="14" fill="#334155">New demo battery</text>
+<rect x="530" y="482" width="18" height="18" rx="4" fill="#f97316"/>
+<text x="557" y="496" font-family="system-ui,sans-serif" font-size="14" fill="#334155">Aged demo battery</text>
+</svg>

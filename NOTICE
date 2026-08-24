@@ -1,0 +1,7 @@
+VoltCast is an independent open-source research prototype.
+
+Its research foundation was developed collaboratively by Hspikes, HYQ, and LMY in February 2026. Hspikes led the August 2026 open-source reconstruction. Detailed, evidence-bounded attribution is recorded in CONTRIBUTORS.md and docs/project-lineage.md.
+
+The project framing was inspired by COMAP's 2026 Mathematical Contest in Modeling Problem A, "Modeling Smartphone Battery Drain." COMAP, MCM, and related marks belong to their respective owners. This project is not affiliated with or endorsed by COMAP.
+
+The official problem statement and third-party research papers are not redistributed in this repository. Citations are provided as links in docs/references.md.

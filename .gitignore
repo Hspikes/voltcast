@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# User-generated runs are ignored; versioned baselines are explicit exceptions.
+artifacts/*
+!artifacts/baseline/
+!artifacts/baseline/*.csv

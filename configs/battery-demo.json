@@ -1,0 +1,11 @@
+{
+  "capacity_ah": 4.3,
+  "r0_ohm": 0.055,
+  "r1_ohm": 0.018,
+  "c1_f": 2400.0,
+  "r2_ohm": 0.012,
+  "c2_f": 12000.0,
+  "cutoff_voltage_v": 3.0,
+  "ocv_min_v": 3.0,
+  "ocv_span_v": 1.2
+}

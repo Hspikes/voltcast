@@ -1,0 +1,17 @@
+scenario,battery,initial_soc,tte_hours,final_soc,stop_reason
+reading-dark,new-demo,1.00,22.5500,0.006925,voltage-cutoff
+reading-dark,new-demo,0.75,16.1944,0.006901,voltage-cutoff
+reading-dark,new-demo,0.50,10.2875,0.006925,voltage-cutoff
+reading-dark,new-demo,0.25,4.8389,0.006913,voltage-cutoff
+mixed-day,new-demo,1.00,19.4542,0.150006,voltage-cutoff
+mixed-day,new-demo,0.75,19.0000,0.097604,voltage-cutoff
+mixed-day,new-demo,0.50,18.0000,0.015083,voltage-cutoff
+mixed-day,new-demo,0.25,12.0000,0.024855,voltage-cutoff
+streaming,new-demo,1.00,3.5278,0.071728,voltage-cutoff
+streaming,new-demo,0.75,2.4708,0.071737,voltage-cutoff
+streaming,new-demo,0.50,1.4917,0.071705,voltage-cutoff
+streaming,new-demo,0.25,0.5917,0.071726,voltage-cutoff
+gaming,new-demo,1.00,1.6986,0.150041,voltage-cutoff
+gaming,new-demo,0.75,1.1472,0.150350,voltage-cutoff
+gaming,new-demo,0.50,0.6389,0.150208,voltage-cutoff
+gaming,new-demo,0.25,0.1750,0.149459,voltage-cutoff
